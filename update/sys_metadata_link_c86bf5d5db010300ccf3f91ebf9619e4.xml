@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>211bb5d5db010300ccf3f91ebf961990</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_group">
+    <sys_user_group action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <cost_center/>
+        <default_assignee/>
+        <description/>
+        <email/>
+        <exclude_manager>false</exclude_manager>
+        <hourly_rate>0</hourly_rate>
+        <include_members>false</include_members>
+        <manager/>
+        <name>TEST0906</name>
+        <parent/>
+        <roles/>
+        <source/>
+        <sys_created_by>y-anamizu</sys_created_by>
+        <sys_created_on>2017-09-06 01:27:03</sys_created_on>
+        <sys_id>211bb5d5db010300ccf3f91ebf961990</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>y-anamizu</sys_updated_by>
+        <sys_updated_on>2017-09-06 01:27:03</sys_updated_on>
+        <type/>
+        <vendors/>
+    </sys_user_group>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>y-anamizu</sys_created_by>
+        <sys_created_on>2017-09-06 01:28:05</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c86bf5d5db010300ccf3f91ebf9619e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEST0906</sys_name>
+        <sys_package display_value="TEST0906" source="x_11114_test0906">f16a7995db010300ccf3f91ebf9619ba</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TEST0906">f16a7995db010300ccf3f91ebf9619ba</sys_scope>
+        <sys_update_name>sys_metadata_link_c86bf5d5db010300ccf3f91ebf9619e4</sys_update_name>
+        <sys_updated_by>y-anamizu</sys_updated_by>
+        <sys_updated_on>2017-09-06 01:28:05</sys_updated_on>
+        <tablename>sys_user_group</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_11114_test0906.TEST0906_admin" name="x_11114_test0906.TEST0906_admin">ad7abd95db010300ccf3f91ebf961996</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>y-anamizu</sys_created_by>
+        <sys_created_on>2017-09-06 01:24:21</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>918a7595db010300ccf3f91ebf9619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ad7abd95db010300ccf3f91ebf961996</sys_name>
+        <sys_package display_value="TEST0906" source="x_11114_test0906">f16a7995db010300ccf3f91ebf9619ba</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TEST0906">f16a7995db010300ccf3f91ebf9619ba</sys_scope>
+        <sys_update_name>sys_embedded_help_role_918a7595db010300ccf3f91ebf9619c7</sys_update_name>
+        <sys_updated_by>y-anamizu</sys_updated_by>
+        <sys_updated_on>2017-09-06 01:24:21</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

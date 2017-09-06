@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="TEST0906">cdda71d5db010300ccf3f91ebf9619a8</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>TEST0906s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_11114_test0906_test0906</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_11114_test0906.TEST0906_admin</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>y-anamizu</sys_created_by>
+        <sys_created_on>2017-09-06 01:25:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>09da71d5db010300ccf3f91ebf9619ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEST0906s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TEST0906" source="x_11114_test0906">f16a7995db010300ccf3f91ebf9619ba</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TEST0906">f16a7995db010300ccf3f91ebf9619ba</sys_scope>
+        <sys_update_name>sys_app_module_09da71d5db010300ccf3f91ebf9619ab</sys_update_name>
+        <sys_updated_by>y-anamizu</sys_updated_by>
+        <sys_updated_on>2017-09-06 01:25:41</sys_updated_on>
+        <timeline_page/>
+        <title>TEST0906s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

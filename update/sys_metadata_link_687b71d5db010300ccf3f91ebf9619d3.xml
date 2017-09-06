@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>d83b75d5db010300ccf3f91ebf9619f2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_group_has_role">
+    <sys_group_has_role action="INSERT_OR_UPDATE">
+        <granted_by/>
+        <group display_value="TEST0906" name="TEST0906">211bb5d5db010300ccf3f91ebf961990</group>
+        <inherits>true</inherits>
+        <role display_value="x_11114_test0906.TEST0906" name="x_11114_test0906.TEST0906">74fa75d5db010300ccf3f91ebf961921</role>
+        <sys_created_by>y-anamizu</sys_created_by>
+        <sys_created_on>2017-09-06 01:27:17</sys_created_on>
+        <sys_id>d83b75d5db010300ccf3f91ebf9619f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>y-anamizu</sys_updated_by>
+        <sys_updated_on>2017-09-06 01:27:17</sys_updated_on>
+    </sys_group_has_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>y-anamizu</sys_created_by>
+        <sys_created_on>2017-09-06 01:28:24</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>687b71d5db010300ccf3f91ebf9619d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2017-09-06 10:27:17</sys_name>
+        <sys_package display_value="TEST0906" source="x_11114_test0906">f16a7995db010300ccf3f91ebf9619ba</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TEST0906">f16a7995db010300ccf3f91ebf9619ba</sys_scope>
+        <sys_update_name>sys_metadata_link_687b71d5db010300ccf3f91ebf9619d3</sys_update_name>
+        <sys_updated_by>y-anamizu</sys_updated_by>
+        <sys_updated_on>2017-09-06 01:28:24</sys_updated_on>
+        <tablename>sys_group_has_role</tablename>
+    </sys_metadata_link>
+</record_update>

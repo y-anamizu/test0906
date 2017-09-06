@@ -53,7 +53,7 @@
         <sys_created_by>y-anamizu</sys_created_by>
         <sys_created_on>2017-09-06 01:47:56</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>45dffd99db010300ccf3f91ebf96194c</sys_id>
+        <sys_id>95796a51db810300ccf3f91ebf961993</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Name</sys_name>
         <sys_package display_value="TEST0906" source="x_11114_test0906">f16a7995db010300ccf3f91ebf9619ba</sys_package>
@@ -61,8 +61,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="TEST0906">f16a7995db010300ccf3f91ebf9619ba</sys_scope>
         <sys_update_name>sys_dictionary_x_11114_test0906_test0906_name</sys_update_name>
-        <sys_updated_by>y-anamizu</sys_updated_by>
-        <sys_updated_on>2017-09-06 01:47:56</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-09-06 04:49:25</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

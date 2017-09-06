@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_11114_test0906_test0906">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="name" table="x_11114_test0906_test0906">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -15,7 +15,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>Name</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -23,16 +23,16 @@
         <delete_roles/>
         <dependent/>
         <dependent_on_field/>
-        <display>false</display>
+        <display>true</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element/>
+        <element>name</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <internal_type display_value="Collection">collection</internal_type>
-        <mandatory>false</mandatory>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>true</mandatory>
         <max_length>40</max_length>
         <name>x_11114_test0906_test0906</name>
         <next_element/>
@@ -51,18 +51,18 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>y-anamizu</sys_created_by>
-        <sys_created_on>2017-09-06 01:25:42</sys_created_on>
+        <sys_created_on>2017-09-06 01:47:56</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>e5aef559db010300ccf3f91ebf961907</sys_id>
+        <sys_id>45dffd99db010300ccf3f91ebf96194c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_11114_test0906_test0906</sys_name>
+        <sys_name>Name</sys_name>
         <sys_package display_value="TEST0906" source="x_11114_test0906">f16a7995db010300ccf3f91ebf9619ba</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="TEST0906">f16a7995db010300ccf3f91ebf9619ba</sys_scope>
-        <sys_update_name>sys_dictionary_x_11114_test0906_test0906_NULL</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-09-06 01:42:24</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_11114_test0906_test0906_name</sys_update_name>
+        <sys_updated_by>y-anamizu</sys_updated_by>
+        <sys_updated_on>2017-09-06 01:47:56</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
